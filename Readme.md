@@ -1,0 +1,1 @@
+This code implements a Denoising Diffusion Probabilistic Models (DDPM) to generate MNIST figures, using a U-Net for progressive denoising. The process alternates between adding noise (forward) and removing it (backward) through iterative steps.
