@@ -1,6 +1,6 @@
 """
 @author: Dr Yen Fred WOGUEM 
-@description: This script train a Diffusion Model to generate images
+@description: This script trains a Diffusion Model to generate images
 """
 
 import torch
